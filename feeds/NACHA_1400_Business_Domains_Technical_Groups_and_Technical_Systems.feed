@@ -1,0 +1,8 @@
+Name: NACHA 1400 Business Domains Technical Groups and Technical Systems
+Description: NACHA 140 Business Domains Technical Groups and Technical Systems
+ImportRule: Standard MSLI Import
+ImportConnection: 
+Definition: NACHA 1400 Business Domains Technical Groups and Technical Systems
+INPUT_FILE: ${MHUB_ENV_DATA_ROOT}/nacha-BD-TechGroup.msli
+State: A
+

@@ -1,0 +1,8 @@
+Name: NACHA 1500 Tags and TagValue
+Description: NACHA 150 Tags and TagValue
+ImportRule: Standard MSLI Import
+ImportConnection: 
+Definition: NACHA 1500 Tags and TagValue
+INPUT_FILE: ${MHUB_ENV_DATA_ROOT}/nacha-Tag.msli ${MHUB_ENV_DATA_ROOT}/nacha-TagValue.msli
+State: A
+

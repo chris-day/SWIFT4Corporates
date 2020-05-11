@@ -1,0 +1,8 @@
+Name: NACHA 0400 BizTerms
+Description: NACHA 040 BizTerms
+ImportRule: Standard MSLI Import
+ImportConnection: 
+Definition: NACHA 0400 BizTerms
+INPUT_FILE: ${MHUB_ENV_DATA_ROOT}/nacha-BizTerm*.msli
+State: A
+

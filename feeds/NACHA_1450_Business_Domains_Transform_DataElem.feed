@@ -1,0 +1,8 @@
+Name: NACHA 1450 Business Domains Transform DataElem
+Description: NACHA 145 Business Domains Transform DataElem
+ImportRule: Standard MSLI Import
+ImportConnection: 
+Definition: NACHA 1450 Business Domains Transform DataElem
+INPUT_FILE: ${MHUB_ENV_DATA_ROOT}/nacha-BD-TransformDataElem.msli
+State: A
+

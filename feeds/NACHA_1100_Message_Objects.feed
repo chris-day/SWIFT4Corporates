@@ -1,0 +1,8 @@
+Name: NACHA 1100 Message Objects
+Description: NACHA 110 Message Objects
+ImportRule: Standard MSLI Import
+ImportConnection: 
+Definition: NACHA 1100 Message Objects
+INPUT_FILE: ${MHUB_ENV_DATA_ROOT}/nacha-Message*.msli
+State: A
+

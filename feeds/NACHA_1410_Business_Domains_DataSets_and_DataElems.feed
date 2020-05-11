@@ -1,0 +1,8 @@
+Name: NACHA 1410 Business Domains DataSets and DataElems
+Description: NACHA 141 Business Domains DataSets and DataElems
+ImportRule: Standard MSLI Import
+ImportConnection: 
+Definition: NACHA 1410 Business Domains DataSets and DataElems
+INPUT_FILE: ${MHUB_ENV_DATA_ROOT}/nacha-BD-DataSet.msli ${MHUB_ENV_DATA_ROOT}/nacha-BD-DataElem.msli
+State: A
+

@@ -1,0 +1,8 @@
+Name: NACHA 0410 BizTerms LogAttr
+Description: NACHA 041 BizTerms LogAttr
+ImportRule: Standard MSLI ENRICH_OBJECT for LogAttr-1
+ImportConnection: 
+Definition: NACHA 0410 BizTerms LogAttr
+INPUT_FILE: ${MHUB_ENV_DATA_ROOT}/nacha-040-BizTerm-LogAttr.msli
+State: A
+

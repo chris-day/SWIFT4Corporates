@@ -1,0 +1,8 @@
+Name: NACHA 0600 Systems and Applications
+Description: NACHA 060 Systems and Applications
+ImportRule: Standard MSLI Import
+ImportConnection: 
+Definition: NACHA 0600 Systems and Applications
+INPUT_FILE: ${MHUB_ENV_DATA_ROOT}/nacha-System.msli ${MHUB_ENV_DATA_ROOT}/nacha-Application.msli
+State: A
+

@@ -1,0 +1,8 @@
+Name: NACHA 0420 Actors
+Description: NACHA 042 Actors
+ImportRule: Standard MSLI Import
+ImportConnection: 
+Definition: NACHA 0420 Actors
+INPUT_FILE: ${MHUB_ENV_DATA_ROOT}/nacha-Actors*.msli
+State: A
+

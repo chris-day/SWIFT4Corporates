@@ -1,0 +1,8 @@
+Name: NACHA 1000 DataSets
+Description: NACHA 100 DataSets
+ImportRule: Standard MSLI Import
+ImportConnection: 
+Definition: NACHA 1000 DataSets
+INPUT_FILE: ${MHUB_ENV_DATA_ROOT}/nacha-Data*.msli
+State: A
+

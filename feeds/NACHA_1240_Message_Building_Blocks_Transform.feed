@@ -1,0 +1,8 @@
+Name: NACHA 1240 Message Building Blocks Transform
+Description: NACHA 124 Message Building Blocks Transform
+ImportRule: Standard MSLI Import
+ImportConnection: 
+Definition: NACHA 1240 Message Building Blocks Transform
+INPUT_FILE: ${MHUB_ENV_DATA_ROOT}/nacha-08-Transform.msli
+State: A
+

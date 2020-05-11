@@ -1,0 +1,8 @@
+Name: NACHA 1900 Business Area BizTerms
+Description: NACHA 190 Business Area BizTerms - based upon BAcode and BizTerms assigned to Message Definitions
+ImportRule: Standard MSLI Import
+ImportConnection: 
+Definition: NACHA 1900 Business Area BizTerms
+INPUT_FILE: ${MHUB_ENV_DATA_ROOT}/nacha-BusinessArea-BizTerm*.msli
+State: A
+

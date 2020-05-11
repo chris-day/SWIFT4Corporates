@@ -1,0 +1,8 @@
+Name: NACHA 1407 Business Domains BizTerm Relationships
+Description: NACHA 149 Business Domains BizTerm Relationships   ${MHUB_ENV_DATA_ROOT}/nacha-BD-BizTermXref.msli
+ImportRule: Standard MSLI Import
+ImportConnection: 
+Definition: NACHA 1407 Business Domains BizTerm Relationships
+INPUT_FILE: ${MHUB_ENV_DATA_ROOT}/nacha-BD-BizTermXref.msli
+State: A
+

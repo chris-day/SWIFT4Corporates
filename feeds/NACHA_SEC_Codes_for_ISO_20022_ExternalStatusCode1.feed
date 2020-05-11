@@ -1,0 +1,8 @@
+Name: NACHA SEC Codes for ISO 20022 ExternalStatusCode1
+Description: NACHA SEC Codes for ISO 20022 ExternalStatusCode1
+ImportRule: Standard Excel Import
+ImportConnection: 
+Definition: NACHA SEC Codes for ISO 20022 ExternalStatusCode1
+INPUT_FILE: ${MHUB_ENV_DATA_ROOT}/nacha-domains.xlsx
+State: A
+

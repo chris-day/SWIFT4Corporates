@@ -1,0 +1,8 @@
+Name: NACHA 1300 Transformations
+Description: NACHA 130 Transformations
+ImportRule: Standard MSLI Import
+ImportConnection: 
+Definition: NACHA 1300 Transformations
+INPUT_FILE: ${MHUB_ENV_DATA_ROOT}/nacha-06*.msli
+State: A
+

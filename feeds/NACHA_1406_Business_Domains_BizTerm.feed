@@ -1,0 +1,8 @@
+Name: NACHA 1406 Business Domains BizTerm
+Description: NACHA 147 Business Domains BizTerm
+ImportRule: Standard MSLI Import
+ImportConnection: 
+Definition: NACHA 1406 Business Domains BizTerm
+INPUT_FILE: ${MHUB_ENV_DATA_ROOT}/nacha-BD-BizTerm.msli
+State: A
+

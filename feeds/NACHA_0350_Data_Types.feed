@@ -1,0 +1,8 @@
+Name: NACHA 0350 Data Types
+Description: NACHA 050 Data Types
+ImportRule: Standard MSLI Import
+ImportConnection: 
+Definition: NACHA 0350 Data Types
+INPUT_FILE: ${MHUB_ENV_DATA_ROOT}/nacha-DT-*.msli
+State: A
+

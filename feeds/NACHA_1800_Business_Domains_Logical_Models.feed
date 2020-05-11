@@ -1,0 +1,8 @@
+Name: NACHA 1800 Business Domains Logical Models
+Description: NACHA 180 Business Domains Logical Models
+ImportRule: Standard MSLI Import
+ImportConnection: 
+Definition: NACHA 1800 Business Domains Logical Models
+INPUT_FILE: ${MHUB_ENV_DATA_ROOT}/nacha-BD-LogModel.msli  ${MHUB_ENV_DATA_ROOT}/nacha-BD-LogSubjArea.msli  ${MHUB_ENV_DATA_ROOT}/nacha-BD-LogSubjAreaEntity.msli
+State: A
+

@@ -1,0 +1,8 @@
+Name: NACHA 1210 Message Building Blocks Executable
+Description: NACHA 121 Message Building Blocks Executable
+ImportRule: Standard MSLI Import
+ImportConnection: 
+Definition: NACHA 1210 Message Building Blocks Executable
+INPUT_FILE: ${MHUB_ENV_DATA_ROOT}/nacha-08-Executable.msli
+State: A
+

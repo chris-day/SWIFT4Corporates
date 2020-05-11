@@ -1,0 +1,8 @@
+Name: NACHA 1440 Business Domains Transform
+Description: NACHA 144 Business Domains Transform
+ImportRule: Standard MSLI Import
+ImportConnection: 
+Definition: NACHA 1440 Business Domains Transform
+INPUT_FILE: ${MHUB_ENV_DATA_ROOT}/nacha-BD-Transform.msli
+State: A
+

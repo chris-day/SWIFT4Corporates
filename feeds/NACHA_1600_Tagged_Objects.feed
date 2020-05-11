@@ -1,0 +1,8 @@
+Name: NACHA 1600 Tagged Objects
+Description: NACHA 160 Tagged Objects
+ImportRule: Standard MSLI Import
+ImportConnection: 
+Definition: NACHA 1600 Tagged Objects
+INPUT_FILE: ${MHUB_ENV_DATA_ROOT}/nacha-TaggedObject.msli
+State: A
+

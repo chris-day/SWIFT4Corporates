@@ -1,0 +1,8 @@
+Name: NACHA 1700 Golden BizTerm DataElem
+Description: NACHA 170 Golden BizTerm DataElem
+ImportRule: Enrich BizTerm Golden DataElem Import
+ImportConnection: 
+Definition: NACHA 1700 Golden BizTerm DataElem
+INPUT_FILE: ${MHUB_ENV_DATA_ROOT}/nacha-GoldenDataElem-BizTerm.msli
+State: A
+

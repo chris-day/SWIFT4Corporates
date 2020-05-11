@@ -1,0 +1,8 @@
+Name: NACHA 0800 Business Process Systems and Applications
+Description: NACHA 080 Business Process Systems and Applications
+ImportRule: Standard MSLI Import
+ImportConnection: 
+Definition: NACHA 0800 Business Process Systems and Applications
+INPUT_FILE: ${MHUB_ENV_DATA_ROOT}/nacha-BusinessProcess*.msli
+State: A
+

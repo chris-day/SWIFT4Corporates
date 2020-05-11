@@ -1,0 +1,8 @@
+Name: NACHA 1420 Business Domains Executable
+Description: NACHA 142 Business Domains Executable
+ImportRule: Standard MSLI Import
+ImportConnection: 
+Definition: NACHA 1420 Business Domains Executable
+INPUT_FILE: ${MHUB_ENV_DATA_ROOT}/nacha-BD-Executable.msli
+State: A
+

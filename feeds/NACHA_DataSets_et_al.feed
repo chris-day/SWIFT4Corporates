@@ -1,0 +1,7 @@
+Name: NACHA DataSets et al
+Description: NACHA DataSets containes Applications, TechGroup, TechSystem, DataSet, BizTermGroup, BizTerm, BizTermDataSet
+ImportRule: Standard Excel Import
+ImportConnection: 
+INPUT_FILE: ${MHUB_ENV_DATA_ROOT}/nacha-datasets.xlsx
+State: A
+

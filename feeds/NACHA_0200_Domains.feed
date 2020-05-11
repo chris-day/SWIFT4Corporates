@@ -1,0 +1,8 @@
+Name: NACHA 0200 Domains
+Description: NACHA 020 Domains
+ImportRule: Standard MSLI Import
+ImportConnection: 
+Definition: NACHA 0200 Domains
+INPUT_FILE: ${MHUB_ENV_DATA_ROOT}/nacha-dd-*.msli
+State: A
+
