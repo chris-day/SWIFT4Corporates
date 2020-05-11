@@ -20,23 +20,16 @@ Download the repository using Git.
 ### Import the Ab Initio Metadata>Hub Rules
 
 	dotin your Metadata>Hub Profile
-
 	cd rules
-
 	mh-import rule save Enrich_BizTerm_Golden_DataElem_Import.rule
-
 	mh-import rule save Standard_Excel_Import_DELETE_OBJECT.rule
-
 	mh-import rule save Standard_MSLI_ENRICH_OBJECT_for_BizTerm-1.rule
-
 	mh-import rule save Standard_MSLI_ENRICH_OBJECT_for_LogAttr-1.rule
-
 	mh-import rule save Standard_MSLI_Import_DELETE_OBJECT.rule
 
 ### Import the Ab Initio Metadata>Hub Feeds
 
 	dotin your Metadata>Hub Profile
-
 	cd feeds
 	for feedName in *
 	do
